@@ -1,7 +1,3 @@
-Of course, here is a sample README.md file for your forked repository.
-
----
-
 # Understanding Deep Learning
 
 This repository is a fork of the official repository for the book **"Understanding Deep Learning"** by Simon J.D. Prince. It contains a collection of resources designed to supplement the book and provide practical, hands-on experience with the core concepts of deep learning.
